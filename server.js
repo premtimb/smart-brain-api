@@ -1,5 +1,4 @@
 const express = require('express');
-const local_env = require('dotenv').config({ path: __dirname + '/.env.local' });
 const bodyParser = require('body-parser');
 const bcrypt = require('bcrypt-nodejs');
 const cors = require('cors');
