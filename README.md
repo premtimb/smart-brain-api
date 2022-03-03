@@ -4,7 +4,7 @@ This is the API for the <a href="https://github.com/premtimb/smart-brain">Smart 
 
 Smart Brain is a web app that uses the Clarifai API to locate a face in a picture. Using a React.js front-end and Node.js back-end with Express.js as well as a PostgreSQL database to keep track of how many entries a user has made.
 
-![picture of the app](./example.PNG)
+![picture of the app](https://raw.githubusercontent.com/premtimb/smart-brain/master/example.PNG)
 
 ## Technologies Used
 
